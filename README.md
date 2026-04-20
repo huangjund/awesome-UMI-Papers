@@ -2,7 +2,7 @@
 
 Representative papers, datasets, code, and hardware for Universal Manipulation Interface (UMI) and UMI-style robot-free manipulation demonstrations.
 
-This list focuses on systems that turn in-the-wild human demonstrations into robot-ready supervision. It is seeded from Jingru Zhang's UMI survey notes and public resources available through 2026-04-20.
+This list focuses on systems that turn in-the-wild human demonstrations into robot-ready supervision.
 
 To contribute, open a pull request with one link, one short sentence on why it matters for UMI, and 3-5 tags.
 
@@ -19,11 +19,13 @@ To contribute, open a pull request with one link, one short sentence on why it m
 - **FastUMI**, *A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset*, CoRL 2025. [[📄 Paper](https://proceedings.mlr.press/v305/zhaxizhuoma25a.html)] [[🌍 Website](https://fastumi.com/FastUMI/)] [[📄 arXiv](https://arxiv.org/abs/2409.19499)] Tags: `paper` `interface` `hardware` `tracking` `dataset`.
 - **Actuated UMI Gripper**, open-source motorized UMI-compatible gripper. [[🌍 Website](https://actuated-umi.github.io/)] [[💻 Code](https://github.com/actuated-umi/actuated-umi-gripper)] Tags: `hardware` `interface` `force` `code`.
 - **UMI-3D**, *Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception*, 2026.04. [[📄 Paper](https://arxiv.org/abs/2604.14089)] [[🌍 Website](https://umi-3d.github.io/)] Tags: `preprint` `3d-perception` `tracking` `calibration` `vision`.
+- **UMIGen**, *A Unified Framework for Egocentric Point Cloud Generation and Cross-Embodiment Robotic Imitation Learning*, 2025.11. [[📄 Paper](https://arxiv.org/abs/2511.09302)] Tags: `preprint` `3d-perception` `cross-embodiment` `imitation-learning` `tracking`.
 - **ORB-SLAM3 UMI Fork**, SLAM backend used by the original UMI codebase and tutorials. [[💻 Code](https://github.com/cheng-chi/ORB_SLAM3)] Tags: `code` `tracking` `calibration` `core-umi`.
 - **MV-UMI**, *A Scalable Multi-View Interface for Cross-Embodiment Learning*, 2025.09. [[📄 Paper](https://arxiv.org/abs/2509.18757)] [[🌍 Website](https://mv-umi.github.io/)] Tags: `preprint` `multiview` `vision` `cross-embodiment`.
 - **ActiveUMI**, *Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations*, 2025.10. [[📄 Paper](https://arxiv.org/abs/2510.01607)] [[🌍 Website](https://activeumi.github.io/)] Tags: `preprint` `active-perception` `vision` `policy-guidance`.
 - **ARCap**, *Collecting High-quality Human Demonstrations for Robot Learning with Augmented Reality Feedback*, ICRA 2025. [[📄 Paper](https://arxiv.org/abs/2410.08464)] [[🌍 Website](https://stanford-tml.github.io/ARCap/)] Tags: `paper` `interface` `cross-embodiment` `imitation-learning` `policy-guidance`.
 - **ARMADA**, *Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition*, 2024.12. [[📄 Paper](https://arxiv.org/abs/2412.10631)] [[🌍 Website](https://machinelearning.apple.com/research/armada-augmented-reality)] [[📝 OpenReview](https://openreview.net/forum?id=o7eWqcPfpL)] Tags: `preprint` `interface` `imitation-learning` `cross-embodiment`.
+- **Agricultural UMI Hardware**, *Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications*, ERF 2025. [[📄 Paper](https://arxiv.org/abs/2506.09494)] [[📦 Record](https://zenodo.org/records/15111126)] Tags: `paper` `hardware` `tracking` `interface` `imitation-learning`.
 
 ## Tactile, Force, and Dexterity
 
@@ -36,6 +38,7 @@ To contribute, open a pull request with one link, one short sentence on why it m
 - **ViTaMIn-B**, *A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface*, 2025.11. [[📄 Paper](https://arxiv.org/abs/2511.05858)] Tags: `preprint` `bimanual` `tactile` `tracking` `contact-rich`.
 - **UMI-FT**, *In-the-Wild Compliant Manipulation with UMI-FT*, 2026.01. [[📄 Paper](https://arxiv.org/abs/2601.09988)] [[🌍 Website](https://umi-ft.github.io/)] Tags: `preprint` `force` `contact-rich` `policy-guidance`.
 - **TacUMI**, *A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks*, 2026.01. [[📄 Paper](https://arxiv.org/abs/2601.14550)] Tags: `preprint` `tactile` `force` `contact-rich` `policy-guidance`.
+- **TacThru-UMI**, *Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation*, RA-L 2026. [[📄 Paper](https://arxiv.org/abs/2512.09851)] [[🌍 Website](https://tacthru.yuyang.li/)] [[💻 Code](https://github.com/YuyangLee/TacThru)] [[🗂️ Data](https://huggingface.co/datasets/aidenli/tacthru_umi_tasks)] Tags: `paper` `tactile` `vision` `diffusion-policy` `dataset`.
 - **DexUMI**, *Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation*, CoRL 2025. [[📄 Paper](https://proceedings.mlr.press/v305/xu25b.html)] [[🌍 Website](https://dex-umi.github.io/)] [[📄 arXiv](https://arxiv.org/abs/2505.21864)] Tags: `paper` `dexterous` `tactile` `cross-embodiment` `interface`.
 - **DexCap**, *Scalable and Portable Mocap Data Collection System for Dexterous Manipulation*, RSS 2024. [[📄 Paper](https://arxiv.org/abs/2403.07788)] [[🌍 Website](https://dex-cap.github.io/)] Tags: `paper` `dexterous` `tracking` `interface` `imitation-learning`.
 - **Holo-Dex**, *Teaching Dexterity with Immersive Mixed Reality*, ICRA 2023. [[📄 Paper](https://arxiv.org/abs/2210.06463)] [[🌍 Website](https://holo-dex.github.io/)] Tags: `paper` `dexterous` `interface` `imitation-learning` `dataset`.
@@ -45,6 +48,7 @@ To contribute, open a pull request with one link, one short sentence on why it m
 
 - **UMI-on-Legs**, *Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers*, CoRL 2024. [[📄 Paper](https://proceedings.mlr.press/v270/ha25a.html)] [[🌍 Website](https://umi-on-legs.github.io/)] [[💻 Code](https://github.com/real-stanford/umi-on-legs)] Tags: `paper` `mobile` `cross-embodiment` `policy-guidance`.
 - **UMI-on-Air**, *Embodiment-Aware Guidance for Embodiment-Agnostic Visuomotor Policies*, 2025.10. [[📄 Paper](https://arxiv.org/abs/2510.02614)] [[🌍 Website](https://umi-on-air.github.io/)] [[📦 Checkpoints](https://huggingface.co/LeCAR-Lab/umi-on-air_checkpoints)] Tags: `preprint` `mobile` `cross-embodiment` `diffusion-policy` `policy-guidance`.
+- **UMI-Underwater**, *Learning Underwater Manipulation without Underwater Teleoperation*, 2026.03. [[📄 Paper](https://arxiv.org/abs/2603.27012)] [[🌍 Website](https://umi-under-water.github.io/)] [[💻 Code](https://github.com/umi-under-water/UMI_underwater)] Tags: `preprint` `3d-perception` `dataset` `diffusion-policy` `policy-guidance`.
 - **HoMMI**, *Learning Whole-Body Mobile Manipulation from Human Demonstrations*, 2026.03. [[📄 Paper](https://arxiv.org/abs/2603.03243)] [[🌍 Website](https://hommi-robot.github.io/)] Tags: `preprint` `mobile` `active-perception` `cross-embodiment` `policy-guidance`.
 - **HuMI**, *Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations*, 2026.02. [[📄 Paper](https://arxiv.org/abs/2602.06643)] [[🌍 Website](https://humanoid-manipulation-interface.github.io/)] [[🗂️ Data](https://huggingface.co/datasets/Richard-Nai/HuMI-Raw-Data)] Tags: `preprint` `mobile` `bimanual` `cross-embodiment` `imitation-learning`.
 
@@ -60,6 +64,7 @@ To contribute, open a pull request with one link, one short sentence on why it m
 
 - **UMI Robot Dataset Community**, community index for UMI-style robot datasets. [[🌍 Website](https://umi-data.github.io/)] Tags: `data` `dataset` `core-umi`.
 - **FastUMI-100K**, *Advancing Data-driven Robotic Manipulation with a Large-scale UMI-style Dataset*, 2025.10. [[📄 Paper](https://arxiv.org/abs/2510.08022)] [[🗂️ Data](https://github.com/MrKeee/FastUMI-100K)] Tags: `preprint` `data` `dataset` `multiview` `vla`.
+- **Hoi!**, *A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation*, 2025.12. [[📄 Paper](https://arxiv.org/abs/2512.04884)] [[🌍 Website](https://timengelbracht.github.io/Hoi-Dataset-Website/)] Tags: `preprint` `data` `dataset` `tactile` `force`.
 - **UniDex**, *A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos*, 2026.03. [[📄 Paper](https://arxiv.org/abs/2603.22264)] [[🌍 Website](https://unidex-ai.github.io/)] [[🤗 Model](https://huggingface.co/UniDex-ai/UniDex)] Tags: `preprint` `dexterous` `vla` `dataset` `cross-embodiment`.
 - **RoboPaint**, *From Human Demonstration to Any Robot and Any View*, 2026.02. [[📄 Paper](https://arxiv.org/abs/2602.05325)] Tags: `preprint` `dexterous` `tactile` `dataset` `vla`.
 - **Open X-Embodiment**, large cross-embodiment robot dataset and benchmark. [[🌍 Website](https://robotics-transformer-x.github.io/)] Tags: `data` `dataset` `cross-embodiment` `vla`.
