@@ -4,7 +4,7 @@ A curated list of Universal Manipulation Interface (UMI) and UMI-style systems f
 
 This list is for robot learning researchers, builders of data-collection hardware, and anyone trying to understand how handheld human demonstrations become robot-ready supervision. It is seeded from Jingru Zhang's UMI survey notes and public papers available through 2026-04-20.
 
-Contributions are welcome. Please read [contributing.md](contributing.md) before opening a pull request.
+Contributions are welcome. To add something, open a pull request with one link, one short sentence on why it matters for UMI, and 3-5 tags from the compact tag set below.
 
 ## Contents
 
