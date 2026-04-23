@@ -8,6 +8,9 @@ To contribute, open a pull request with one link, one short sentence on why it m
 
 **Tags:** `paper`, `preprint`, `survey`, `code`, `hardware`, `data`, `core-umi`, `interface`, `tracking`, `calibration`, `vision`, `multiview`, `active-perception`, `3d-perception`, `tactile`, `force`, `contact-rich`, `dexterous`, `bimanual`, `mobile`, `cross-embodiment`, `imitation-learning`, `diffusion-policy`, `policy-guidance`, `representation-learning`, `dataset`, `vla`.
 
+## Challenge
+- **Maniskill ViTac Challenge 2026**, [[🌍 Website](https://callmeray.github.io/Mani_ViTac_Challenge_2026_page/)] Tags:`data` `core-umi` `tactile` `force` `dataset`.
+
 ## Core and Surveys
 
 - **Diffusion Manipulation Survey**, *Diffusion Models for Robotic Manipulation: A Survey*, 2025.04. [[📄 Paper](https://arxiv.org/abs/2504.08438)] Tags: `survey` `diffusion-policy` `imitation-learning` `policy-guidance`.
