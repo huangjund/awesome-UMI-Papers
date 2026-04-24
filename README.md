@@ -63,6 +63,7 @@ To contribute, open a pull request with one link, one short sentence on why it m
 - **UMI Robot Dataset Community**, community index for UMI-style robot datasets. [[🌍 Website](https://umi-data.github.io/)] Tags: `data` `dataset` `core-umi`.
 - **Hoi!**, *A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation*, 2025.12. [[📄 Paper](https://arxiv.org/abs/2512.04884)] [[🌍 Website](https://timengelbracht.github.io/Hoi-Dataset-Website/)] Tags: `preprint` `data` `dataset` `tactile` `force`.
 - **FastUMI-100K**, *Advancing Data-driven Robotic Manipulation with a Large-scale UMI-style Dataset*, 2025.10. [[📄 Paper](https://arxiv.org/abs/2510.08022)] [[🗂️ Data](https://github.com/MrKeee/FastUMI-100K)] Tags: `preprint` `data` `dataset` `multiview` `vla`.
+- **GenRobot-10Kh**, *Large Scale In-The-Wild UMI Dataset*, [[🌍 Website](https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData)] Tags: `data` `dataset` `core-umi`.
 - **DROID**, *A Large-Scale In-The-Wild Robot Manipulation Dataset*. [[🌍 Website](https://droid-dataset.github.io/)] Tags: `data` `dataset` `interface` `imitation-learning`.
 - **Open X-Embodiment**, large cross-embodiment robot dataset and benchmark. [[🌍 Website](https://robotics-transformer-x.github.io/)] Tags: `data` `dataset` `cross-embodiment` `vla`.
 - **BridgeData V2**, large real-world robot manipulation dataset. [[🌍 Website](https://rail-berkeley.github.io/bridgedata/)] Tags: `data` `dataset` `imitation-learning`.
