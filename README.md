@@ -30,6 +30,8 @@ To contribute, open a pull request with one link, one short sentence on why it m
 
 ## Tactile, Force, and Dexterity
 
+- **DEX-Mouse**, *A Low-cost Portable and Universal Interface with Force Feedback for Data Collection of Dexterous Robotic Hands*, 2026,04. [[📄 Paper](https://dex-mouse.github.io/static/pdfs/DEX-Mouse__Submission.pdf)] [[🌍 Website](https://dex-mouse.github.io/)] Tags: `preprint` `force` `tracking` `hardware` `dexterous`.
+
 - **OmniUMI**, *Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction*, 2026.04. [[📄 Paper](https://arxiv.org/abs/2604.10647)] Tags: `preprint` `tactile` `force` `contact-rich` `diffusion-policy`.
 - **TacUMI**, *A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks*, 2026.01. [[📄 Paper](https://arxiv.org/abs/2601.14550)] Tags: `preprint` `tactile` `force` `contact-rich` `policy-guidance`.
 - **UMI-FT**, *In-the-Wild Compliant Manipulation with UMI-FT*, 2026.01. [[📄 Paper](https://arxiv.org/abs/2601.09988)] [[🌍 Website](https://umi-ft.github.io/)] Tags: `preprint` `force` `contact-rich` `policy-guidance`.
