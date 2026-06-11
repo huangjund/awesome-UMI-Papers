@@ -63,6 +63,8 @@ To contribute, open a pull request with one link, one short sentence on why it m
 
 ## Policy Learning
 
+- **XRZero-G0**, *Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios*, 2026.06. [[📄 Paper](https://arxiv.org/abs/2604.13001)] Tags: `preprint` `vla` `dataset` `cross-embodiment` `core-umi`.
+
 - **VISTA**, *Versatile Interface for Spatially-grounded Teleoperation and Alignment*, 2026.06. [[📄 Paper](https://arxiv.org/abs/2606.04708)] Tags: `preprint` `vla` `dataset` `cross-embodiment` `policy-guidance`.
 - **tau0-WM**, *A Large-Scale Video Generative Pre-training Framework for Robotic Manipulation*, 2026.06. [[📄 Paper](https://arxiv.org/abs/2606.01027)] [[🌍 Website](https://finch.agibot.com/research/tau0-wm)] Tags: `preprint` `world-model` `dataset` `vla` `imitation-learning`.
 - **RDT2**, *Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization*, 2026.02. [[📄 Paper](https://arxiv.org/abs/2602.03310)] [[🌍 Website](https://rdt-robotics.github.io/rdt2/)] [[🤗 Model](https://huggingface.co/robotics-diffusion-transformer/RDT2-FM)] Tags: `preprint` `vla` `dataset` `cross-embodiment` `imitation-learning`.
