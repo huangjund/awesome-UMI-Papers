@@ -13,6 +13,7 @@ To contribute, open a pull request with one link, one short sentence on why it m
 
 ## Core and Surveys
 
+- **Illustration**， *Awesome-UMI*, [[🌍 Website](https://umi-gripper.github.io/)]]
 - **Diffusion Manipulation Survey**, *Diffusion Models for Robotic Manipulation: A Survey*, 2025.04. [[📄 Paper](https://arxiv.org/abs/2504.08438)] Tags: `survey` `diffusion-policy` `imitation-learning` `policy-guidance`.
 - **UMI**, *Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots*, RSS 2024. [[📄 Paper](https://www.roboticsproceedings.org/rss20/p045.html)] [[🌍 Website](https://umi-gripper.github.io/)] [[💻 Code](https://github.com/real-stanford/universal_manipulation_interface)] Tags: `paper` `core-umi` `interface` `vision` `imitation-learning`.
 - **UMI Topic Overview**, overview of UMI, FastUMI, exUMI, MV-UMI, DexUMI, ActiveUMI, UMI-on-Legs, and UMI-on-Air. [[🧭 Overview](https://www.emergentmind.com/topics/universal-manipulation-interface-umi)] Tags: `survey` `core-umi` `interface` `cross-embodiment`.
